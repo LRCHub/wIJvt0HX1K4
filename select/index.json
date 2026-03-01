@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "僕と傘と日曜日 (TOUR 2024-2025 “A museMentally”)",
+  "base_artist": "スキマスイッチ",
+  "createdAt": "2026-03-01T13:11:34.283995Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕と傘と日曜日",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_僕と傘と日曜日_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕と傘と日曜日",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/02_僕と傘と日曜日_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕と傘と日曜日",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/03_僕と傘と日曜日_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕と傘と日曜日 (TOUR 2024-2025 “A museMentally”)",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/04_僕と傘と日曜日_(TOUR_2024-2025_“A_museMentally”)_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕と傘と日曜日 (2018 Remaster)",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/05_僕と傘と日曜日_(2018_Remaster)_スキマスイッチ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕と傘と日曜日",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_僕と傘と日曜日_スキマスイッチ.txt"
+    }
+  ]
+}
